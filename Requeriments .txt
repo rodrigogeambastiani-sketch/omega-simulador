@@ -1,7 +1,0 @@
-streamlit
-numpy
-scipy
-scikit-image
-matplotlib
-pillow
-pydicom
