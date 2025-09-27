@@ -1,12 +1,6 @@
 streamlit
 numpy
+matplotlib
 scipy
 scikit-image
-matplotlib
-pillow
 pydicom
-streamlit
-numpy
-matplotlib
-scikit-image
-scipy
